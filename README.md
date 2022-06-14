@@ -2,7 +2,8 @@
 
 ## Hi there 👋
 
--   🔭 I’m currently working on [**devnhn110**](https://github.com/nhndev110)
+-   🔭 I’m currently working on Full-stack Developer
+-   👨‍💻 Nick name[**devnhn110**](https://github.com/nhndev110)
 -   💬 Ask me about : **devnhn110**
 -   📫 How to reach me :
     -   [Facebook](https://www.facebook.com/nhndev110/)
