@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 -   🔭 I’m currently working on Full-stack Developer
--   👨‍💻 Nick name : [**devnhn110**](https://github.com/nhndev110)
+-   👨‍💻 Nick name : [**nhndev110**](https://github.com/nhndev110)
 -   💬 Ask me about : Information Technology
 -   📫 How to reach me :
     -   [Facebook](https://www.facebook.com/nhndev110/)
