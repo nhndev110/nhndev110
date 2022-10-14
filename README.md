@@ -1,4 +1,4 @@
-# **nhndev110** _( Nhan Nguyen Hoang )_.
+# **nhndev110** _Nguyễn Hoàng Nhân_
 
 ## Hi there 👋
 
