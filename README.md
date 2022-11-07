@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
--   🔭 I’m currently working on Full-stack Developer
+-   🔭 I’m currently working on Fullstack Developer
 -   👨‍💻 Nick name : [**nhndev110**](https://github.com/nhndev110)
 -   💬 Ask me about : Information Technology
 -   📫 How to reach me :
