@@ -13,7 +13,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhndev110&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhndev110&repo=Ecommerce-MOBILE-SELLING-Website)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhndev110&show_icons=true&theme=tokyonight&repo=Ecommerce-MOBILE-SELLING-Website)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhndev110&repo=Food-Restaurant-Website)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhndev110&repo=Tour-Travel-Agency-Website)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhndev110&repo=Customize-The-Band-W3)](https://github.com/anuraghazra/github-readme-stats)
