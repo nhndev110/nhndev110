@@ -11,7 +11,7 @@
     -   [Twitter](https://twitter.com/nhndev110)
 -   ✉ Contact : nhndev110@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhndev110&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhndev110&show_icons=true&theme=dark)](https://github.com/nhndev110)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhndev110&show_icons=true&theme=dark&repo=Ecommerce-MOBILE-SELLING-Website)](https://github.com/nhndev110/Ecommerce-MOBILE-SELLING-Website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhndev110&show_icons=true&theme=dark&repo=Food-Restaurant-Website)](https://github.com/nhndev110/Food-Restaurant-Website)
