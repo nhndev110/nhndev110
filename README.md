@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/nhndev110">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php&perline=3" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php&perline=4" />
   </a>
 </p>
 
