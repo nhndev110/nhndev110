@@ -22,3 +22,21 @@
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,php&perline=7" />
   </a>
 </p>
+
+**Database:**
+
+<p align="center">
+  <a href="https://github.com/nhndev110">
+    <img src="https://skillicons.dev/icons?i=mysql&perline=1" />
+  </a>
+</p>
+
+**IDEs:**
+
+<p align="center">
+  <a href="https://github.com/nhndev110">
+    <img src="https://skillicons.dev/icons?i=vscode,&perline=1" />
+  </a>
+</p>
+
+
