@@ -17,11 +17,7 @@
 
 **Languages:**
 
-<p align="center">
-  <a href="https://github.com/nhndev110">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,php&perline=7" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,php&perline=7&theme=dark)](https://github.com/nhndev110)
 
 **Database:**
 
