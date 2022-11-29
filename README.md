@@ -16,11 +16,14 @@
 ## Skills:
 
 **Languages:**
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,php&theme=dark&perline=7)](https://github.com/nhndev110)
 
 **Database:**
+
 [![My Skills](https://skillicons.dev/icons?i=mysql&perline=1&theme=dark)](https://github.com/nhndev110)
 
 **IDEs:**
+
 [![My Skills](https://skillicons.dev/icons?i=vscode&perline=1&theme=dark)](https://github.com/nhndev110)
 
