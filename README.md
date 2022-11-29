@@ -11,10 +11,14 @@
     -   [Twitter](https://twitter.com/nhndev110)
 -   ✉ Contact : nhndev110@gmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhndev110&show_icons=true&theme=dark)](https://github.com/nhndev110)
+
+## Skills:
+
+**Languages:**
+
 <p align="center">
   <a href="https://github.com/nhndev110">
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,php&perline=7" />
   </a>
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhndev110&show_icons=true&theme=dark)](https://github.com/nhndev110)
