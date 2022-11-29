@@ -21,9 +21,12 @@
 
 **Database:**
 
-[![My Skills](https://skillicons.dev/icons?i=mysql&perline=1&theme=dark)](https://github.com/nhndev110)
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://github.com/nhndev110)
+
+**Tools and Technologies:**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)](https://github.com/nhndev110)
 
 **IDEs:**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode&perline=1&theme=dark)](https://github.com/nhndev110)
-
+[![My Skills](https://skillicons.dev/icons?i=vscode&theme=dark)](https://github.com/nhndev110)
