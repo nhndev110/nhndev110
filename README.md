@@ -30,3 +30,7 @@
 **IDEs:**
 
 [![My Skills](https://skillicons.dev/icons?i=vscode&theme=dark)](https://github.com/nhndev110)
+<div align="center">
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt="Sublime Text" title="Sublime Text" />
+</div>
