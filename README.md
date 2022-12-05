@@ -1,6 +1,4 @@
-# **nhndev110** - Nguyễn Hoàng Nhân
-
-## Hi there 👋
+## Hi there 👋, I'm nhndev110
 
 -   🔭 I’m currently working on Fullstack Developer
 -   👨‍💻 Nick name : [**nhndev110**](https://github.com/nhndev110)
