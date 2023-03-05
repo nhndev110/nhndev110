@@ -1,6 +1,6 @@
 # <div align="center">Hi there 👋, I'm Nhan Nguyen Hoang (nhndev110)</div>
 
--   🔭 I’m currently working on Fullstack Developer
+-   🔭 I’m currently working on PHP Backend Developer
 -   👨‍💻 Nick name : [**nhndev110**](https://github.com/nhndev110)
 -   💬 Ask me about : Information Technology
 -   📫 How to reach me :
@@ -13,20 +13,19 @@
 
 **Languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,php&theme=dark&perline=7)](https://github.com/nhndev110)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,php&theme=dark&perline=7)](https://github.com/nhndev110)
+
+**Libraries & Frameworks:**
+
+[![My Skills](https://skillicons.dev/icons?i=laravel,bootstrap,jquery&theme=dark&perline=7)](https://github.com/nhndev110)
 
 **Database:**
 
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://github.com/nhndev110)
 
-**Tools and Technologies:**
+**Tools:**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)](https://github.com/nhndev110)
-
-**IDEs:**
-
-[![My Skills](https://skillicons.dev/icons?i=vscode&theme=dark)](https://github.com/nhndev110)
-
+[![My Skills](https://skillicons.dev/icons?i=postman,stackoverflow,vscode,git,github&theme=dark)](https://github.com/nhndev110)
 
 <table width="100%">
     <tr>
