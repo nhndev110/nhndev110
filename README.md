@@ -1,6 +1,6 @@
 # <div align="center">Hi there 👋, I'm Nhan Nguyen Hoang (nhndev110)</div>
 
--   🔭 I’m currently working on PHP Backend Developer
+-   🔭 I’m currently working on Backend Developer
 -   👨‍💻 Nick name: [**nhndev110**](https://github.com/nhndev110)
 -   💬 Ask me about: Everything
 -   📫 How to reach me:
