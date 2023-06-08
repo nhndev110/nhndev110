@@ -30,15 +30,15 @@
 ---
 
 <table width="100%">
-    <tr>
-        <td>
-            <a href="https://github.com/nhndev110">
-                <img src="https://github-readme-stats.vercel.app/api?username=nhndev110&show_icons=true&theme=vue-dark" alt="nhndev110 - Github" title="nhndev110 - Github" />
+    <tr width="100%">
+        <td width="50%">
+            <a href="https://github.com/nhndev110" width="100%">
+                <img src="https://github-readme-stats.vercel.app/api?username=nhndev110&show_icons=true&theme=vue-dark" alt="nhndev110" title="nhndev110" />
             </a>
         </td>
-        <td>
-            <a href="https://github.com/nhndev110">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhndev110&layout=compact&theme=vue-dark" alt="nhndev110 - Github" title="nhndev110 - Github" />
+        <td width="50%">
+            <a href="https://github.com/nhndev110" width="100%">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhndev110&layout=compact&theme=vue-dark" alt="nhndev110" title="nhndev110" />
             </a>
         </td>
     </tr>
