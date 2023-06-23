@@ -2,11 +2,12 @@
 
 -   🔭 I’m currently working on Backend Developer
 -   👨‍💻 Nick name: [**nhndev110**](https://github.com/nhndev110)
--   💬 Ask me about: Everything
+-   💬 You can find more information about me by searching for `nhndev110`
 -   📫 How to reach me:
-    -   [Facebook](https://www.facebook.com/nhndev110)
+    -   [Facebook](https://www.facebook.com/nhndev110/)
     -   [Instagram](https://www.instagram.com/nhndev110)
     -   [Twitter](https://twitter.com/nhndev110)
+    -   [Linkedin](https://www.linkedin.com/in/nhndev110/)
 -   ✉ Contact : nhndev110@gmail.com
 
 ## Skills:
