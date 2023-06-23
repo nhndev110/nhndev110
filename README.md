@@ -2,7 +2,7 @@
 
 -   🔭 I’m currently working on Backend Developer
 -   👨‍💻 Nick name: **nhndev110**
--   💬 You can find more information about me by searching for [`nhndev110`](https://www.google.com/search?q=nhndev110)
+-   💬 You can find more information about me by searching for [`nhndev110`](https://www.google.com/search?q=nhndev110&filter=0)
 -   📫 How to reach me:
     -   [Facebook](https://www.facebook.com/nhndev110/)
     -   [Instagram](https://www.instagram.com/nhndev110)
