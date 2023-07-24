@@ -1,8 +1,8 @@
-# <div align="center">Hi there 👋, I'm Nhan Nguyen Hoang (nhndev110)</div>
+# <div align="center">Hi there 👋, I'm Nhan Nguyen Hoang (NHNdev110)</div>
 
--   💬 You can find more information about me by searching for [`nhndev110`](https://www.google.com/search?q=nhndev110&filter=0)
+-   💬 You can find more information about me by searching for [`NHNdev110`](https://www.google.com/search?q=nhndev110&filter=0)
 -   🔭 I’m currently working on Backend Developer
--   👨‍💻 Nick name: **nhndev110**
+-   👨‍💻 Nick name: **NHNdev110**
 -   📫 How to reach me:
     -   [Facebook](https://www.facebook.com/nhndev110/)
     -   [Instagram](https://www.instagram.com/nhndev110)
@@ -14,7 +14,7 @@
 
 **Languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,php&theme=dark&perline=7)](https://github.com/nhndev110)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,php,java&theme=dark&perline=7)](https://github.com/nhndev110)
 
 **Libraries & Frameworks:**
 
@@ -30,17 +30,5 @@
 
 ---
 
-<table width="100%">
-    <tr width="100%">
-        <td width="50%">
-            <a href="https://github.com/nhndev110" width="100%" align="center">
-                <img src="https://github-readme-stats.vercel.app/api?username=nhndev110&show_icons=true&theme=vue-dark" alt="nhndev110" title="nhndev110" />
-            </a>
-        </td>
-        <td width="50%">
-            <a href="https://github.com/nhndev110" width="100%" align="center">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhndev110&layout=compact&theme=vue-dark" alt="nhndev110" title="nhndev110" />
-            </a>
-        </td>
-    </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=nhndev110&show_icons=true&theme=vue-dark" alt="NHNdev110" title="NHNdev110" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhndev110&layout=compact&theme=vue-dark" alt="NHNdev110" title="NHNdev110" />
