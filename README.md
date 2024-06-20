@@ -1,6 +1,6 @@
 # <div align="center">Hi there 👋, I'm Nhan Nguyen Hoang (NHNDEV110)</div>
 
--   💬 You can find more information about me by searching for [`nhndev110`](https://www.google.com/search?q=nhndev110&filter=0)
+-   💬 You can find more information about me by searching for [`nhndev110`](https://www.google.com/search?q=nhndev110)
 -   🔭 I’m currently working on Backend Developer
 -   👨‍💻 Nick name: **NHNDEV110**
 -   📫 How to reach me:
