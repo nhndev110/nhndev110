@@ -27,8 +27,3 @@
 **Tools:**
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,vite,redis,git,github)](https://github.com/nhndev110)
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=nhndev110&show_icons=true&theme=vue-dark" alt="NHNDEV110" title="NHNDEV110" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhndev110&layout=compact&theme=vue-dark" alt="NHNDEV110" title="NHNDEV110" />
