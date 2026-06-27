@@ -27,3 +27,8 @@
 **Tools:**
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,vite,redis,git,github)](https://github.com/nhndev110)
+
+## Script Tool
+```bash
+curl -fsSL https://raw.githubusercontent.com/nhndev110/tool-check-linhkien/refs/heads/main/setup-xrdp.sh -o setup-xrdp.sh && chmod +x setup-xrdp.sh && ./setup-xrdp.sh
+```
