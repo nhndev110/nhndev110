@@ -39,5 +39,5 @@ curl -fsSL https://raw.githubusercontent.com/nhndev110/tool-check-linhkien/refs/
 ### Debian
 
 ```bash
-wget -qO setup-debian13.sh https://raw.githubusercontent.com/nhndev110/tool-check-linhkien/refs/heads/main/setup-debian13.sh && chmod +x setup-debian13.sh && ./setup-debian13.sh
+wget -qO setup-debian13.sh https://raw.githubusercontent.com/nhndev110/tool-check-linhkien/refs/heads/main/setup-debian13.sh && chmod +x setup-debian13.sh && sudo ./setup-debian13.sh
 ```
