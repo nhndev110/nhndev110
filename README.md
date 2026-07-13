@@ -46,8 +46,7 @@ su -
 
 ```bash
 su -
-curl -fsSL https://raw.githubusercontent.com/nhndev110/tool-check-linhkien/refs/heads/main/setup-debian13.sh -o setup-debian13.sh
-SUDO_USER=tp1 bash setup-debian13.sh
+curl -fsSL https://raw.githubusercontent.com/nhndev110/tool-check-linhkien/refs/heads/main/setup-debian13.sh -o setup-debian13.sh && chmod +x setup-debian13.sh && ./setup-debian13.sh
 ```
 
 ```bash
