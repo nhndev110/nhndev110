@@ -39,6 +39,10 @@ curl -fsSL https://raw.githubusercontent.com/nhndev110/tool-check-linhkien/refs/
 ### Debian
 
 ```bash
+sudo passwd root
+```
+
+```bash
 su -
 ```
 
