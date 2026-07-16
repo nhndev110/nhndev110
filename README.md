@@ -33,7 +33,7 @@
 ### CachyOS
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/nhndev110/tool-check-linhkien/refs/heads/main/setup-cachyos.sh -o setup-cachyos.sh && chmod +x setup-cachyos.sh && ./setup-cachyos.sh
+curl -fsSL https://raw.githubusercontent.com/nhndev110/tpserver-support-kit/refs/heads/main/setup-cachyos.sh -o setup-cachyos.sh && chmod +x setup-cachyos.sh && ./setup-cachyos.sh
 ```
 
 ### Debian
@@ -49,9 +49,9 @@ su -
 ---
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/nhndev110/tool-check-linhkien/refs/heads/main/setup-debian13.sh -o setup-debian13.sh && chmod +x setup-debian13.sh && ./setup-debian13.sh
+curl -fsSL https://raw.githubusercontent.com/nhndev110/tpserver-support-kit/refs/heads/main/setup-debian13.sh -o setup-debian13.sh && chmod +x setup-debian13.sh && ./setup-debian13.sh
 ```
 
 ```bash
-wget -qO setup-debian13.sh https://raw.githubusercontent.com/nhndev110/tool-check-linhkien/refs/heads/main/setup-debian13.sh && chmod +x setup-debian13.sh && ./setup-debian13.sh
+wget -qO setup-debian13.sh https://raw.githubusercontent.com/nhndev110/tpserver-support-kit/refs/heads/main/setup-debian13.sh && chmod +x setup-debian13.sh && ./setup-debian13.sh
 ```
