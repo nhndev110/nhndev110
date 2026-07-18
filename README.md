@@ -28,7 +28,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,vite,redis,git,github)](https://github.com/nhndev110)
 
-## Support Kit
+---
 
 <p align="center">
   <a href="https://github.com/nhndev110/linux-support-kit">
