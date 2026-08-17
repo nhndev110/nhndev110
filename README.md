@@ -31,7 +31,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/nhndev110/linux-support-kit">
+  <a href="https://github.com/nhndev110/sos-linux-kit">
     <img src="https://img.shields.io/badge/🔧_Script_Tool-Linux_Support_Kit-2088FF?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Support Kit">
   </a>
 </p>
