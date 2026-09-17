@@ -1,14 +1,13 @@
 # <div align="center">Hi there 👋, I'm Nhan Nguyen Hoang (NHNDEV110)</div>
 
--   💬 You can find more information about me by searching for `nhndev110`
--   🔭 I’m currently working on Software Developer
--   👨‍💻 Nick name: **NHNDEV110**
--   📫 How to reach me:
-    -   [Facebook](https://www.facebook.com/nhndev110/)
-    -   [Instagram](https://www.instagram.com/nhndev110)
-    -   [X](https://x.com/nhndev110)
-    -   [Linkedin](https://www.linkedin.com/in/nhndev110/)
--   ✉ Contact : [nhndev110@gmail.com](mailto:nhndev110@gmail.com)
+<div align="center">
+
+💻 Software Developer · 🧑‍💻 **NHNDEV110**
+🔎 Find me online: `nhndev110`
+📫 [LinkedIn](https://www.linkedin.com/in/nhndev110/) · [Facebook](https://www.facebook.com/nhndev110/) · [Instagram](https://www.instagram.com/nhndev110) · [X](https://x.com/nhndev110) · [Email](mailto:nhndev110@gmail.com)
+
+</div>
+
 
 ## Featured Project
 
@@ -37,13 +36,5 @@
 **Tools**
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,vite,redis,git,github)](https://github.com/nhndev110)
-
----
-
-<p align="center">
-  <a href="https://github.com/nhndev110/linux-support-kit-release#linux-support-kit">
-    <img src="https://img.shields.io/badge/🔧_Script_Tool-Linux_Support_Kit-2088FF?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Support Kit">
-  </a>
-</p>
 
 
